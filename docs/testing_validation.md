@@ -1,5 +1,20 @@
 ## Testing and validation
 
+The supported development environment uses Python 3.12 as defined in
+`environment.yml`. The package can be installed from the repository with:
+
+```text
+python -m pip install ".[dev]"
+```
+
+Run the automated tests with:
+
+```text
+pytest
+```
+
+The same installation and test commands are used by the CI workflow.
+
 Every substantive modelling change must include appropriate tests.
 
 Prefer:

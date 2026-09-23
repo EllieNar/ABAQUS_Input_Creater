@@ -4,8 +4,6 @@ channels:
 
 dependencies:
   - python = 3.12
-  - numpy
+  - numpy >=2.0
   - pytest
   - pip
-  - pandas
-  
