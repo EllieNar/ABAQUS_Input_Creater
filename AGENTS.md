@@ -24,7 +24,7 @@ Do not commit, push, rename the repository, or add production dependencies
 unless explicitly requested.
 
 Do not use CONTEXT.md as a transcript or reasoning log. Follow the guidance
-under `## Project Decisions` in CONTEXT.md.
+at the start of CONTEXT.md for correct formatting.
 
 ## Project purpose
 
